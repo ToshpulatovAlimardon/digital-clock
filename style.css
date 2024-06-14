@@ -8,13 +8,15 @@ body {
   background-image: url("images/bg.jpg");
   font-family: sans-serif;
   background-size: cover;
+  overflow: hidden;
 }
 
 h2 {
   text-transform: uppercase;
   letter-spacing: 4px;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
+  color: white;
 }
 
 .clock {
